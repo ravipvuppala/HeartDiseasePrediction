@@ -1,7 +1,7 @@
 # HeartDiseasePrediction
 Heart disease prediction using Logistic Regression
 
-The data field:
+The data fields:
 
 1. id - unique id
 2. age - age in years
