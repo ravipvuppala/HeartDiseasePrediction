@@ -1,8 +1,6 @@
 # HeartDiseasePrediction
 Heart disease prediction using Logistic Regression
 
-This Project is about predictiong wether a person has heart disease or not
-
 The data field:
 
 id - unique id
